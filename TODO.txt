@@ -1,0 +1,2 @@
+- Ellenőrizni az alg2-őt és alg3-at.
+- Implementálni pythonban a Shannon equation-t.
