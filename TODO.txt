@@ -1,2 +1,0 @@
-- entDistNew : random algoritmus alapján kiszámolt utak entrópiájának összege. Pl.: 1->5 : 100x lefutott erre az útvonalra a random keresés és összeadta a kiszámolt entrópiákat.
-- entDistNewDivided : A fentebb említett eredményeket elosztotva 100-al tartalmazza.
